@@ -1,0 +1,44 @@
+.nav-item:hover{
+    background-color: #F1F1F2;
+    border-radius: 15px;
+}
+
+p{
+    text-indent: 6px;
+    line-height: 25px;
+}
+
+#tortenet{
+    background-color: #A1D6E2;
+    padding: 20px;
+    border: 2px solid #1995AD;
+    border-radius: 15px;
+    margin-top: 40px;
+}
+
+#masodik{
+    padding-top: 40px;
+}
+
+li{
+    line-height: 30px;
+}
+
+#jatekotlet{
+    background-color: #A1D6E2;
+    padding: 20px;
+    border: 2px solid #1995AD;
+    border-radius: 15px;
+    
+}
+
+nav{
+    background-color: #A1D6E2;
+}
+
+header{
+    background-color: #A1D6E2;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border: 2px solid #1995AD;
+}
