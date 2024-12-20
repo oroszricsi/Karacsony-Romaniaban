@@ -43,3 +43,12 @@ header{
     border-bottom-left-radius: 15px;
     border: 2px solid #1995AD;
 }
+img{
+    width: 200px;
+    margin-left: 30px;
+    
+}
+#elso{
+    height: 500px;
+    vertical-align: middle;
+}
