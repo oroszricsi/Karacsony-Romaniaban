@@ -55,11 +55,5 @@ img{
     vertical-align: middle;
 }
 #romania{
-    position: absolute;
-    right: 625px;
     padding: 5px;
-}
-h1{
-    margin-bottom: 100px;
-    margin-top: 60px;
 }
